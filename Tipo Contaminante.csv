@@ -1,0 +1,43 @@
+idTipoContaminante,nombreContaminante,tipoPeligrosidad
+0,ozono,0
+1,dióxido de azufre,0
+2,dióxido de nitrógeno,0
+3,monóxido de carbono,0
+4,PM10,0
+5,PM25,0
+6,ozono,1
+7,dióxido de azufre,1
+8,dióxido de nitrógeno,1
+9,monóxido de carbono,1
+10,PM10,1
+11,PM25,1
+12,ozono,2
+13,dióxido de azufre,2
+14,dióxido de nitrógeno,2
+15,monóxido de carbono,2
+16,PM10,2
+17,PM25,2
+18,ozono,3
+19,dióxido de azufre,3
+20,dióxido de nitrógeno,3
+21,monóxido de carbono,3
+22,PM10,3
+23,PM25,3
+24,ozono,4
+25,dióxido de azufre,4
+26,dióxido de nitrógeno,4
+27,monóxido de carbono,4
+28,PM10,4
+29,PM25,4
+30,ozono,5
+31,dióxido de azufre,5
+32,dióxido de nitrógeno,5
+33,monóxido de carbono,5
+34,PM10,5
+35,PM25,5
+36,ozono,-1
+37,dióxido de azufre,-1
+38,dióxido de nitrógeno,-1
+39,monóxido de carbono,-1
+40,PM10,-1
+41,PM25,-1
